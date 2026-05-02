@@ -56,20 +56,20 @@ ThemeData buildAppTheme() {
       type: BottomNavigationBarType.fixed,
       elevation: 0,
     ),
-    cardTheme: CardThemeData(
-      color: AppColors.card,
-      elevation: 0,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+    cardTheme: const CardTheme(
+    color: AppColors.card,
+    elevation: 0,
+    shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
     ),
     dividerColor: AppColors.border,
     switchTheme: SwitchThemeData(
-      thumbColor: WidgetStateProperty.resolveWith(
-        (s) => s.contains(WidgetState.selected)
+      thumbColor: MaterialStateProperty.resolveWith(
+        (s) => s.contains(MaterialState.selected)
             ? AppColors.primary
             : AppColors.textMuted,
       ),
-      trackColor: WidgetStateProperty.resolveWith(
-        (s) => s.contains(WidgetState.selected)
+      trackColor: MaterialStateProperty.resolveWith(
+        (s) => s.contains(MaterialState.selected)
             ? AppColors.primary.withAlpha(77)
             : AppColors.muted,
       ),
