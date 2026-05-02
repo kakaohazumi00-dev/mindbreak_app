@@ -56,7 +56,7 @@ ThemeData buildAppTheme() {
       type: BottomNavigationBarType.fixed,
       elevation: 0,
     ),
-    cardTheme: const CardTheme(
+    cardTheme: CardTheme(
     color: AppColors.card,
     elevation: 0,
     shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
