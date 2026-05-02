@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121470597489",
+    "project_id": "mindbreak-fbc57",
+    "storage_bucket": "mindbreak-fbc57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121470597489:android:3121849df1eb9aca701ed0",
+        "android_client_info": {
+          "package_name": "com.mindbreak.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYA6J8CP_QGjrgbdDFoZaMkTYFoA5uec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121470597489:android:8c1afbe53a28afa7701ed0",
+        "android_client_info": {
+          "package_name": "com.mindbreak.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfYA6J8CP_QGjrgbdDFoZaMkTYFoA5uec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+ C:\\Users\\Lenovo\\flutter_mindbreak\\build\\773df9f4336554484b5a2d475f2633b7\\dart_build_result.json:  C:\\Users\\Lenovo\\flutter_mindbreak\\.dart_tool\\package_config.json C:\\Users\\Lenovo\\flutter_mindbreak\\pubspec.yaml C:\\flutter\\bin\\cache\\dart-sdk\\version c:\\users\\lenovo\\flutter_mindbreak\\.dart_tool\\package_config.json
